@@ -1,2 +1,4 @@
 # for-nothing
-nothing
+
+nothing is good
+
